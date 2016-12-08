@@ -21,7 +21,3 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for 
 ### Usage
 
     docker run -it --rm dockerfile/ubuntu
-
-### Commit
-
-    docker commit -m="Init." -a="clarkchen633" 20072cbcf7e3 clarkchen633/docker-ubuntu
